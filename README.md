@@ -10,13 +10,13 @@
   
 - 📫 How to reach me **carlosmarioperdomo555@gmail.com**  
   
-<h3 align="center">Get in touch:</h3>  
-<p align="center">
+<h3 align="left">Get in touch:</h3>  
+<p align="left">
 <a href="https://instagram.com/mariopr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meriofrog" height="30" width="40" /></a>  
 </p>  
   
-<h3 align="left">Languages and Technologies:</h3>  
-<p align="left"> 
+<h3 align="center">Languages and Technologies:</h3>  
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
