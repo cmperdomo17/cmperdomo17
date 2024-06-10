@@ -10,11 +10,6 @@
   
 - 📫 How to reach me **carlosmarioperdomo555@gmail.com**  
   
-<h3 align="center">Get in touch:</h3>  
-<p align="center">
-<a href="https://instagram.com/mariopr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meriofrog" height="30" width="40" /></a>  
-</p>  
-  
 <h3 align="center">Languages and Technologies:</h3>  
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -52,7 +47,7 @@
   </a> 
 </p>  
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmperdomo17&show_icons=true&locale=en&layout=compact&theme=react" alt="cmperdomo17" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmperdomo17&show_icons=true&locale=en&layout=compact&theme=react" alt="cmperdomo17" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmperdomo17&show_icons=true&locale=en&theme=react" alt="cmperdomo17" /></p>  
   
