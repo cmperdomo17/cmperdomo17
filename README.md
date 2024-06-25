@@ -2,7 +2,7 @@
 <h3 align="center">A 21 year old Frontend Developer.</h3>
 <h3 align="center">Turning ideas into pixel-perfect user interfaces</h3>
   
-- 🌱 I’m currently learning **Astro**  
+- 🌱 I’m currently learning **Next.js**  
   
 - 👨‍💻 All of my projects are available at [https://marioprdev.netlify.app](https://marioprdev.netlify.app)  
   
