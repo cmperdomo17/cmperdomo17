@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Mario</h1>  
-<h3 align="center">A 21 year old Frontend Developer.</h3>
+<h3 align="center">A 22 year old Frontend Developer.</h3>
 <h3 align="center">Turning ideas into pixel-perfect user interfaces</h3>
   
 - 🌱 I’m currently learning **Next.js**  
