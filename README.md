@@ -2,13 +2,13 @@
 <h3 align="center">A 22 year old Frontend Developer.</h3>
 <h3 align="center">Turning ideas into pixel-perfect user interfaces</h3>
   
-- 🌱 I’m currently learning **Next.js**  
+- 🌱 I’m currently learning **DataOps**  
   
-- 👨‍💻 All of my projects are available at [https://marioprdev.netlify.app](https://marioprdev.netlify.app)  
+- 👨‍💻 All of my projects are available at [https://marioprdev.netlify.app](https://carlosmario.vercel.app)  
   
-- 💬 Ask me about **React and Tailwind**  
+- 💬 Ask me about **Next, React, Angular and Astro**  
   
-- 📫 How to reach me **carlosmarioperdomo555@gmail.com**  
+- 📫 How to reach me **cmperdomo7@gmail.com**  
   
 <h3 align="center">Languages and Technologies:</h3>  
 <p align="center"> 
